@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="849bb31c-c7b5-4990-902f-ee3090722d76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effective-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item3/Elvis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item3/Elvis3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item4/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item7/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item8/FinalizerCleaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item9/TryCatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/item9/TryResourcesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/Songwriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/abstractEx/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/abstractEx/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/abstractEx/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/abstractEx/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/interfaceEx/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/interfaceEx/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/interfaceEx/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Item20/interfaceEx/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item17/ImmutableEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item19/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item19/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item24/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item25/Desert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/item25/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item34/EnumEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item34/IntEnumPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item34/PayrollDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item34/PayrollDaySwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item35/Ensemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item36/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item37/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item38/BasicOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item38/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ElvisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter2/item4/UtilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter2/item7/StackTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TWWh2qgQW01lNtHFND46KHSx7z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/yuseon/study/effective-java/test/chapter2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter2.item7" />
+      <recent name="chapter2.item4" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Plant">
+    <configuration name="BasicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.item38.BasicOperation" />
+      <module name="effective-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.item38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ensemble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.item35.Ensemble" />
+      <module name="effective-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.item35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayrollDaySwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.item34.PayrollDaySwitch" />
+      <module name="effective-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.item34.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.item37.Plant" />
+      <module name="effective-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.item37.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.item36.Text" />
+      <module name="effective-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.item36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Plant" />
+        <item itemvalue="Application.Text" />
+        <item itemvalue="Application.BasicOperation" />
+        <item itemvalue="Application.Ensemble" />
+        <item itemvalue="Application.PayrollDaySwitch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="849bb31c-c7b5-4990-902f-ee3090722d76" name="Changes" comment="" />
+      <created>1691159432743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691159432743</updated>
+      <workItem from="1691159434023" duration="27204000" />
+      <workItem from="1693734078453" duration="2819000" />
+      <workItem from="1693916394381" duration="13515000" />
+      <workItem from="1695638394471" duration="6783000" />
+      <workItem from="1695735414690" duration="2557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

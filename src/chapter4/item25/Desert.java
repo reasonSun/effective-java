@@ -1,0 +1,8 @@
+package chapter4.item25;
+
+class Utensil {
+    static final String NAME = "pot";
+}
+class Desert {
+    static final String NAME = "pie";
+}
